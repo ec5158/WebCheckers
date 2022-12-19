@@ -1,0 +1,19 @@
+SWEN 261 - Section 10 - Team C
+--------------
+Instructions:
+--------------
+
+How to Build and Run:
+=====================
+If using MVN:
+    mvn compile exec:java
+
+If using Intellij:
+    ctrl + f9, then alt + shift + f10, then run Application
+                           OR
+    Right click in Application class, then click Run 'Application.main()'
+
+
+How to Access Web Application:
+==============================
+Open a browser to 'localhost:4567'
